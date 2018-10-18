@@ -8,6 +8,8 @@
     display: none;
 }
 
+
+
 @media screen and (max-width:670px) {
     
 }
@@ -15,5 +17,14 @@
 @media screen and (max-width: 520px) {
     .hamburger {
         display: inline;
+    }
+
+    .header__logo {
+        height: 62px;
+    }
+
+    .header__title {
+        font-size: 2em;
+
     }
 }
