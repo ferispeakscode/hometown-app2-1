@@ -5,6 +5,10 @@
 
 .hamburger {
     font-size: 3em;
+    position: relative;
+    float: right;
+    margin-top: 1em;
+    margin-right: 0.2em;
     display: none;
 }
 
